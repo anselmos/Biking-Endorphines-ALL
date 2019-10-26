@@ -1,0 +1,6 @@
+[submodule "Biking-Endorphines-Server"]
+	path = Biking-Endorphines-Server
+	url = git@github.com:anselmos/Biking-Endorphines-Server.git
+[submodule "Biking-Endorphines-Android-App"]
+	path = Biking-Endorphines-Android-App
+	url = git@github.com:anselmos/Biking-Endorphines-Android-App.git
